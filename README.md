@@ -1,4 +1,4 @@
-![logo](https://github.com/AbdullahHamid2003/AbdullahHamid2003/blob/main/Github%20Banner.png)
+<!-- ![logo](https://github.com/AbdullahHamid2003/AbdullahHamid2003/blob/main/Github%20Banner.png) -->
 <h1 align="center">Hi 👋, I'm Abdullah Hamid</h1>
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
 
